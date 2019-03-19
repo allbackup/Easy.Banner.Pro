@@ -1,0 +1,8 @@
+Info:
+  Easy Banner Pro is an advanced script for running your own banner exchange
+  system. Each user can have up to 3 accounts (different banner sizes) with up to
+  3 ads in each of these accounts. It means that each user may have maximum of 9
+  different banners. You have a lot of options in the Admin Area, many features
+  may be changed or disabled if you don't want them.
+
+  http://phpwebscripts.com/easybannerpro/index.html
